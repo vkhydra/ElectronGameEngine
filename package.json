@@ -1,0 +1,30 @@
+{
+  "name": "ElectronGameEngine",
+  "version": "1.0.0",
+  "description": "ElectronGameEngine",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tsc -w",
+    "server": "",
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkhydra/ElectronGameEngine.git"
+  },
+  "keywords": [
+    "engine"
+  ],
+  "engines": {
+    "node": "14.16.0"
+  },
+  "author": "Victor Kulessa, André Ferreira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vkhydra/ElectronGameEngine/issues"
+  },
+  "homepage": "https://github.com/vkhydra/ElectronGameEngine#readme",
+  "dependencies": {
+    "typescript": "^4.2.4"
+  }
+}
